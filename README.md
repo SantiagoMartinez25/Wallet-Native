@@ -1,4 +1,4 @@
-# Wellcome to QuiqueBank 🤗
+# Wellcome to MoonBank🤗
 ## Virtual Wallet with Firebase and React-Native
 ### Installation
 ```npm i``` / ```npm install```
